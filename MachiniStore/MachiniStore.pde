@@ -1,1 +1,2 @@
-asdasdasdasd
+so basically wheen you wrtie stuff here and you save it, github then saves it and THEN AND ONLY THEN can you commit it and push it
+bitchass thing
