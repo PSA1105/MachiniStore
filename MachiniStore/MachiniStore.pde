@@ -1,3 +1,17 @@
-//so basically wheen you wrtie stuff here and you save it, github then saves it and THEN AND ONLY THEN can you commit it and push it
-//  bitchass thing
-blah blah bashdias 
+MachiniStore MCF;
+Boba boba;
+Boombox boombox;
+CherryBlossom sakura;
+
+void setup() {
+  size(2160,1620);
+  rectMode(CENTER);
+  Background();
+  MachiniStore=new MCF(
+  Boba=new boba(
+  boombox=new boombox(
+}
+
+void draw
+
+  
